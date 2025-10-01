@@ -28,7 +28,7 @@ github_username:  CiccaG
 avatar: "/assets/img/Good_Photo.jpg"
 
 # Build settings
-remote_theme: piharpi/jekyll-klise 
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -53,5 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-author:
+author: 
   avatar: /assets/img/Good_Photo.jpg
