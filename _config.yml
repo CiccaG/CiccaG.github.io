@@ -23,8 +23,9 @@ email: your-email@example.com
 description: Personal webpage of Gabriele Ciccarello, PhD student at Copenhagen University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ciccag.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  CiccaG
+avatar: "/assets/img/Good_Photo.jpg"
 
 # Build settings
 remote_theme: piharpi/jekyll-klise 
@@ -52,8 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme_mode: dark
-author:
-    name: Gabriele Ciccarello
-    picture: _site/assets/img/Good_Photo.jpg
