@@ -56,4 +56,4 @@ plugins:
 theme_mode: dark
 author:
     name: Gabriele Ciccarello
-    picture: /assets/img/Good_Photo.jpg
+    picture: _site/assets/img/Good_Photo.jpg
