@@ -1,9 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-title: Welcome to Gabriele Ciccarello's webpage!
+title: Home
 ---
 
-![Profile picture](/assets/img/linkedin.jpg)
+# Gabriele Ciccarello
+
+<p class="lede">PhD student in mathematics, University of Copenhagen</p>
+
+<figure>
+  <img src="{{ '/assets/img/linkedin.jpg' | relative_url }}" alt="Gabriele Ciccarello writing on a whiteboard" width="1280" height="1280">
+</figure>
+
+I am a PhD student at the Department of Mathematical Sciences of the University of Copenhagen, under the supervision of Søren Fournais.
+
+I work on many-body quantum mechanics, with a particular focus on the properties of dilute Bose gases. You can read more about my [research]({{ '/research/' | relative_url }}), my [talks]({{ '/talks/' | relative_url }}) and my [teaching]({{ '/teaching/' | relative_url }}).

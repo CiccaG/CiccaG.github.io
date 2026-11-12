@@ -1,12 +1,29 @@
---- 
-
+---
 layout: page
 title: Teaching and Dissemination
 permalink: /teaching/
-
 ---
--September 2025: TA for the course "Introduction to Quantum Computing" at the University of Copenhagen
 
--2024: Tutor for the course "Fisica I" for the bachelor Chemistry program at Sapienza University in Rome
-
--2023: Tutor for the course "Laboratorio di Meccanica" for the bachelor Physics program at Sapienza University in Rome
+<ul class="entries">
+  <li>
+    <span class="when">September 2025</span>
+    <span>
+      Teaching assistant, <em>Introduction to Quantum Computing</em>
+      <span class="where">University of Copenhagen</span>
+    </span>
+  </li>
+  <li>
+    <span class="when">2024</span>
+    <span>
+      Tutor, <em>Fisica I</em>
+      <span class="where">Bachelor in Chemistry, Sapienza University of Rome</span>
+    </span>
+  </li>
+  <li>
+    <span class="when">2023</span>
+    <span>
+      Tutor, <em>Laboratorio di Meccanica</em>
+      <span class="where">Bachelor in Physics, Sapienza University of Rome</span>
+    </span>
+  </li>
+</ul>
