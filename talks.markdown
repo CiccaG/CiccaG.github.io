@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks
+description: "Talks and lecture notes by Gabriele Ciccarello, PhD student in mathematics at the University of Copenhagen."
 permalink: /talks/
 ---
 

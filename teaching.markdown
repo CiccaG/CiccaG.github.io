@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching and Dissemination
+description: "Teaching by Gabriele Ciccarello, PhD student in mathematics at the University of Copenhagen."
 permalink: /teaching/
 ---
 

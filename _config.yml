@@ -20,11 +20,13 @@
 
 title: Gabriele Ciccarello
 email: your-email@example.com
-description: Personal webpage of Gabriele Ciccarello, PhD student at Copenhagen University
+tagline: Mathematics, University of Copenhagen
+description: Gabriele Ciccarello is a PhD student in mathematics at the University of Copenhagen, working on many-body quantum mechanics and dilute Bose gases.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ciccag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  CiccaG
+google_site_verification: Bp1Z3nJhgO0w0i2Trt08Bunbi7Pg4-payjoeIAn5hjo
 avatar: "/assets/img/Good_Photo.jpg"
 
 # Build settings
