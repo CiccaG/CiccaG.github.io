@@ -8,7 +8,7 @@ title: Home
 <p class="lede">PhD student in mathematics, University of Copenhagen</p>
 
 <figure>
-  <img src="{{ '/assets/img/linkedin.jpg' | relative_url }}" alt="Gabriele Ciccarello writing on a whiteboard" width="1280" height="1280">
+  <img src="{{ '/assets/img/DSC04123_01.jpg' | relative_url }}" alt="Gabriele Ciccarello eating noodles" width="1065" height="1600">
 </figure>
 
 I am a PhD student at the Department of Mathematical Sciences of the University of Copenhagen, under the supervision of Søren Fournais.
