@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ciccag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  CiccaG
-google_site_verification: Bp1Z3nJhgO0w0i2Trt08Bunbi7Pg4-payjoeIAn5hjo
+google_site_verification: 7VW_mqEa_ZtrW3R71cJn_hkEfcxSBb5dLXV4bmukAXA
 avatar: "/assets/img/Good_Photo.jpg"
 
 # Build settings
